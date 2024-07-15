@@ -2,7 +2,7 @@ import React from 'react'
 import { FaLinkedin } from 'react-icons/fa'
 import { FaGithub } from 'react-icons/fa'
 import { motion } from 'framer-motion'
-import Resume from '../assets/Aruna_Murugesan_Resume.pdf'
+import Resume from '../assets/Aruna_Murugesan_Resume copy.pdf'
 
 const Navbar = () => {
   return (

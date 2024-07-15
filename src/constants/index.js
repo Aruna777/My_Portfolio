@@ -9,25 +9,32 @@ export const ABOUT_TEXT = `I am a dedicated and versatile Software developer wit
 
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
+    year: "August'23 - Present",
     role: "Software Engineer",
     company: "V3 Tech Solutions",
     description: `Built a responsive ReactJS front-end connecting to Node.js/Express.js back-end servers. Developed server-based applications, implemented efficient routing, and created RESTful APIs for integration. Collaborated with stakeholders to define project requirements and timelines.`,
     technologies: ["Javascript", "Tailwind CSS", "React.js", "Redux"],
   },
   {
-    year: "2020 - 2021",
-    role: "Software Engineer Intern",
-    company: "Kaashiv Info Tech",
+    year: "April'24 - July'24",
+    role: "Software Developer",
+    company: "Porter Lee Corporation",
+    description: `Designed and Implemented RESTful APIs using Delphi Framework to enhance Porter Lee’s Evidence Management System. Developed authentication and authorization protocols using JWT, ensuring secure data transmission. `,
+    technologies: ["Delphi", "RESTful APIs", "MS SQL Server", "Java"],
+  },  
+  {
+    year: "July'20 - May'21",
+    role: "Software Developer Intern",
+    company: "UNIQ Technologies",
     description: `Designed and developed user interfaces for web applications using React JS. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
     technologies: ["HTML", "CSS", "React JS", "MS SQL Server"],
   },
   {
-    year: "2019 - 2020",
+    year: "August'19 - March'20",
     role: "Data Analyst Intern",
-    company: "UNIQ Technologies",
+    company: "Kaashiv Info Tech",
     description: ` Conducted exploratory data analysis on large datasets, identifying trends and patterns to support decision-making. Utilized statistical techniques to identify outliers and anomalies in datasets, improving data quality. Performed data visualization using Tableau, based on the analytical needs of the organization and our participants.`,
-    technologies: ["Tableau", "Python", "MS SQL Server"],
+    technologies: ["Tableau", "Python", "PostgreSQL", "Excel"],
   },
 ];
 
@@ -67,7 +74,6 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "4412 Greenfield Dr, Richardson, Texas, 75082 ",
   phoneNo: "+1 316 312 1887 ",
   email: "arunamurugesan03@gmail.com",
 };
