@@ -16,12 +16,12 @@ export const EXPERIENCES = [
     technologies: ["Javascript", "Tailwind CSS", "React.js", "Redux"],
   },
   {
-    year: "April'24 - July'24",
+    year: "April'24 - August'24",
     role: "Software Developer",
     company: "Porter Lee Corporation",
     description: `Designed and Implemented RESTful APIs using Delphi Framework to enhance Porter Lee’s Evidence Management System. Developed authentication and authorization protocols using JWT, ensuring secure data transmission. `,
     technologies: ["Delphi", "RESTful APIs", "MS SQL Server", "Java"],
-  },  
+  },
   {
     year: "July'20 - May'21",
     role: "Software Developer Intern",
@@ -50,7 +50,7 @@ export const PROJECTS = [
   {
     title: "Breast Cancer Prediction",
     image: breast_cancer_prediction,
-    link: "https://github.com/Aruna777/Breast-Cancer-Prediction",    
+    link: "https://github.com/Aruna777/Breast-Cancer-Prediction",
     description:
       "Created a machine learning model for early breast cancer detection using a diverse dataset with clinical and genomic features.",
     technologies: ["Python", "Pandas", "NumPy", "SciKit-Learn", "Seaborn"],
@@ -58,7 +58,7 @@ export const PROJECTS = [
   {
     title: "Credit Card Fraud Detection",
     image: credit_card_fraud,
-    link: "https://github.com/Aruna777/Credit-Card-Fraud-Detection",  
+    link: "https://github.com/Aruna777/Credit-Card-Fraud-Detection",
     description:
       "Designed and implemented a Credit Card Fraud Detection system utilizing machine learning classifiers, such as Logistic Regression, Naïve Bayes, K Nearest Neighbors, and SVM.",
     technologies: ["Python", "Pandas", "MatplotLib", "Seaborn", "NumPy"],
@@ -66,7 +66,7 @@ export const PROJECTS = [
   {
     title: "Quote Advisor",
     image: quote_advice,
-    link:"https://github.com/Aruna777/Quote_Advice_Web_Application",
+    link: "https://github.com/Aruna777/Quote_Advice_Web_Application",
     description:
       "A Web Application which generates random quotes utilizing JavaScript, ReactJS, Tailwind CSS and Axios.",
     technologies: ["HTML", "CSS", "React JS", "APIs"],
