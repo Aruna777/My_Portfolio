@@ -2,6 +2,7 @@ import ai_summarizer from "../assets/projects/ai_summarizer.png";
 import breast_cancer_prediction from "../assets/projects/breast_cancer_prediction.png";
 import credit_card_fraud from "../assets/projects/credit_card_fraud.png";
 import quote_advice from "../assets/projects/quote_advice.png";
+import healthcare_portal from "../assets/projects/healthcare_portal.png";
 
 export const HERO_CONTENT = `I am a passionate Software developer with a knack for crafting robust and scalable web applications. With 3 years of hands-on experience, I have honed my skills in front-end technologies like HTML, CSS, JavaScript, React JS as well as back-end technologies like Node.js, Express.js, MS SQL Server, PostgreSQL. My goal is to explore innovative ways to enhance user experiences and build even more creative web applications.`;
 
@@ -39,6 +40,15 @@ export const EXPERIENCES = [
 ];
 
 export const PROJECTS = [
+  {
+    title: "Healthcare Portal",
+    image: healthcare_portal,
+    link: "https://github.com/Aruna777/Hospital-Portal-Backend",
+    link: "https://github.com/Aruna777/Hospital-Portal-Frontend",
+    description:
+      "Developed a Hospital Portal microservice application using React and Spring Boot which seamlessly integrates the back-end and front-end using APIs.",
+    technologies: ["React", "Redux", "Spring Boot", "Rabbit MQ", "MySQL"],
+  },
   {
     title: "AI Summarizer Application",
     image: ai_summarizer,
